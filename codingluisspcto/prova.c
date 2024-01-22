@@ -8,6 +8,6 @@ int main ()
     n = 3;
     r = 5.7;
     j = 67;
-    printf("simone non sa fare %d + %f", r, j);
+    printf("simone non sa fare %d + %f\n", r, j);
     printf("forza roma");
 }
