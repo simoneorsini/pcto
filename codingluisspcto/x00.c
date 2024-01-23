@@ -2,8 +2,15 @@
 
 int main()
 {
-    int simone = 16;
-    printf("%d", simone);
-    return(0);
+    int n;
+    n = 0;
+    do
+    {
+        printf("%d", n);
+        n++;
+    }
+    while (n<11);
+    return (0);
 }
+    
 
